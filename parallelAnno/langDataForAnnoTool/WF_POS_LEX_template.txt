@@ -1,9 +1,9 @@
-**List one word form per line. POS acronyms must be ALL CAPS. Insert one blank space between the word form and the POS acronym and between the latter and the lexeme.**
+**List one word form per line. POS acronyms must be ALL CAPS. Insert one tab between the word form and the POS acronym and between the latter and the lexeme.**
 
-visit V visit
-visits V visit
-visited V visit
-visiting V visit
-dog N dog
-dogs N dog
-nice A nice
+visit	V	visit
+visits	V	visit
+visited	V	visit
+visiting	V	visit
+dog	N	dog
+dogs	N	dog
+nice	A	nice
