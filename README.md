@@ -9,3 +9,9 @@ This repository is intended for collaboration on Multilingual FrameNet among res
 
 For further discussion, see the [wiki](https://github.com/icsi-berkeley/multilingual_FN/wiki).
 
+
+-----------------
+
+This material is based in part upon work supported by the National Science Foundation under Grant No. 1629989. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+
