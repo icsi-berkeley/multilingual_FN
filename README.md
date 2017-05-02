@@ -7,3 +7,11 @@ This repository is intended for collaboration on Multilingual FrameNet among res
 
 2. A parallel annotation project, in which parallel texts in all the FrameNet languages will be annotated, and the annotations compared.  Until now, each FrameNet project has been choosing its own texts to annotate, so comparisons have been made more difficult due to differences in genre and basic content.  For this project, we have chosen two texts, the transcripts of the TED talk "Do schools kill creativity?" by Ken Robinson in each language, and a portion of the Wikipedia article on "Solar System" from each language.   The TED talk transcripts are very closely parallel across languages, although the Wikipedia articles differ in length and style.
 
+For further discussion, see the [wiki](https://github.com/icsi-berkeley/multilingual_FN/wiki).
+
+
+-----------------
+
+This material is based in part upon work supported by the National Science Foundation under Grant No. 1629989. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+
