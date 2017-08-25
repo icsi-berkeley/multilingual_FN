@@ -1,0 +1,43 @@
+layer: GF
+labels:
+	Ext
+	Obj
+	Head
+	Gen
+	Appositive
+	Dep
+
+layer: PT
+labels:
+	N
+	NP
+	Poss
+	Snfin
+	Sinterrog
+	Sub
+	AVP
+	QUO
+	Ext
+	Obj
+	AJP
+	A
+	Num
+	Sun
+	Dep
+	VPnfin
+
+layer: PP
+labels:
+	ガ
+	ヲ
+	ニ
+	ヘ
+	デ
+	ハ
+	カラ
+	ト
+	マデ
+	モ
+	ヨリ
+	ノ
+
